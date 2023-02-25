@@ -1,0 +1,58 @@
+{
+  "faculty": [
+    {
+      "name": "Yogesh Naik",
+      "designation": "Chairman",
+      "qualification": "MCA,MS,PHD",
+      "id": "Jya8ju8"
+    },
+    {
+      "name": "Suresh M",
+      "designation": "Associate Proff",
+      "qualification": "MCA, PHD",
+      "id": "ahD4Db8"
+    },
+    {
+      "name": "Ravi Kumar",
+      "designation": "Associate Proff",
+      "qualification": "BE, PHD",
+      "id": "R-LWd3x"
+    },
+    {
+      "name": "Manjunath K R",
+      "designation": "Assistant Proff",
+      "qualification": "MCA",
+      "id": "dcAAgMO"
+    }
+  ],
+  "student": [
+    {
+      "name": "Anjan",
+      "course": "MCA",
+      "email": "anjan@gmail.com",
+      "phoneNumber": "7855246588",
+      "id": 1
+    },
+    {
+      "name": "Manjunath K R",
+      "course": "MCA",
+      "email": "manjukr089@gmail.com",
+      "phoneNumber": "7245632210",
+      "id": 2
+    },
+    {
+      "name": "Manoj S",
+      "course": "MCA",
+      "email": "manu@gmail.com",
+      "phoneNumber": "8544256982",
+      "id": 3
+    },
+    {
+      "name": "Prabhu N C",
+      "course": "BCA",
+      "email": "prabhu@gmail.com",
+      "phoneNumber": "9245776230",
+      "id": 4
+    }
+  ]
+}

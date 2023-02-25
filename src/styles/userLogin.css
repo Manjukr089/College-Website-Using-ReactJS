@@ -1,0 +1,54 @@
+.userLogin
+{
+  background-image: url('C:\Users\manju\OneDrive\Desktop\react\Library\public\images\book1.jpg');
+  background-position: center;
+  /* background-size: cover; */
+  height: 100vh;
+  padding: 100px;
+}
+
+.form_input1 form {
+  margin: 30px 150px;
+  display: flex;
+  flex-direction: column;
+  padding-block: 24px;
+  border-radius: 20px;
+  background-image: url('C:\Users\manju\OneDrive\Desktop\react\Library\public\images\book2.jpg');
+  
+  height: 250px;
+  width: 300px;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+
+.form_input1 input {
+  
+  border: none;
+  height: 32px;
+  border-radius: 10px;
+  background: linear-gradient(145deg, #f1f4fa, #cbcdd3);
+  outline: none;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.form_input1 input[type="email"],
+.form_input1 input[type="password"] {
+  padding-inline: 20px;
+  height: 49px;
+  width: 90%;
+}
+#btn1 {
+  cursor: pointer;
+  font-weight: 800;
+  height: 50px;
+  border: none;
+  color: #0c0c0c;
+  width: 100px;
+  border-radius: 10px;
+  background-color:hsl(0, 2%, 69%,0.9);
+}
+.form_input{
+   margin-left: 100px;
+}

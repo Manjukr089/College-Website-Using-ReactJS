@@ -1,0 +1,48 @@
+.facultyBody{
+    /* background-image: url('C:\Users\manju\OneDrive\Desktop\react\Library\public\images\book5.webp'); */
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+    height:90vh;
+}
+.addFaculty{
+    background-color:rgb(69, 71, 71);
+    margin: 20px 400px;
+    padding: 20px;
+    opacity: 0.9;
+    border-radius: 20px;
+}
+.addFaculty h1{
+    text-align: center;
+    color: aliceblue;
+
+}
+.bookForm{
+    margin: 0px 50px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+.bookForm input,textarea{
+    font-size: 1em;
+    opacity: 1;
+    color: black;
+    width: 560px;
+    margin: 4px;
+    padding: 10px;
+    border-radius: 10px;
+    /* justify-content: center; */
+}
+#btn3{
+    width: 200px;
+    height: 40px;
+    margin: 10px 190px 0px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 700;
+  }
+#btn3:hover{
+    background-color: green;
+    color: aliceblue;
+}

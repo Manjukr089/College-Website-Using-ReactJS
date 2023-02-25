@@ -1,0 +1,41 @@
+.studentList{
+    /* background-image: url('C:\Users\manju\OneDrive\Desktop\react\Library\public\images\book7.jpg'); */
+        padding: 1px;
+        background-position: center;
+        background-size: cover;
+        /* height: 100vh; */
+    }
+    #title{
+        background-color:black;
+        margin: 1px;
+        color: aliceblue;
+        text-align:center;
+    }
+    .studentCard {
+        background-color: white;
+        opacity: 0.8;
+        display: inline-block;
+        border: 1px solid black;
+        width: 500px;
+        height: 250px;
+        margin: 50px;
+        margin-top: 20px;
+        margin-left: 150px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .studentCard h2, h3{
+     margin: 10px;
+     color: black;
+    
+    }
+    #btn8{
+        background-color:blue;
+        /* color: aliceblue; */
+        width: 100px;
+        margin-left: 120px;
+        border-radius: 10px;
+    }
+    #btn8:hover{
+        background-color: green;
+    }
