@@ -1,7 +1,7 @@
 .AdminLogin
 {
   /* background-image: url('https://images5.alphacoders.com/394/394862.jpg'); */
-  background-image: url('C:\Users\manju\OneDrive\Desktop\react\Library\public\images\');
+  background-image: url('C:\Users\manju\OneDrive\Desktop\projects\react_new_project\public\images\book1.jpg');
   background-position: center;
   /* background-size: cover; */
   height: 100vh;
@@ -14,7 +14,7 @@
   flex-direction: column;
   padding-block: 24px;
   border-radius: 20px;
-  background-image: url('C:\Users\manju\OneDrive\Desktop\react\Library\public\images\book2.jpg');
+  background-image: url('C:\Users\manju\OneDrive\Desktop\projects\react_new_project\public\images\book2.jpg');
   
   height: 250px;
   width: 300px;
