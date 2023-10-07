@@ -1,7 +1,7 @@
 /node_modules
-/adminLogin.css
-/userLogin.css
+/src/styles/adminLogin.css
+/src/styles/userLogin.css
 
-/adminLogin.jsx
-/userLogin.jsx
+/src/components/adminLogin.jsx
+/src/components/userLogin.jsx
 /pic2.jpg
